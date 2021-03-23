@@ -1,2 +1,0 @@
-# AIBotWithTests
-.Net
