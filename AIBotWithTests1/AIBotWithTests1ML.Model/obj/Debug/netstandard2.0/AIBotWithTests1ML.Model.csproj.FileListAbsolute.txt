@@ -1,0 +1,10 @@
+D:\Pratik Patil\VS 2019\AIBotWithTests1\AIBotWithTests1\AIBotWithTests1ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Pratik Patil\VS 2019\AIBotWithTests1\AIBotWithTests1\AIBotWithTests1ML.Model\bin\Debug\netstandard2.0\AIBotWithTests1ML.Model.deps.json
+D:\Pratik Patil\VS 2019\AIBotWithTests1\AIBotWithTests1\AIBotWithTests1ML.Model\bin\Debug\netstandard2.0\AIBotWithTests1ML.Model.dll
+D:\Pratik Patil\VS 2019\AIBotWithTests1\AIBotWithTests1\AIBotWithTests1ML.Model\bin\Debug\netstandard2.0\AIBotWithTests1ML.Model.pdb
+D:\Pratik Patil\VS 2019\AIBotWithTests1\AIBotWithTests1\AIBotWithTests1ML.Model\obj\Debug\netstandard2.0\AIBotWithTests1ML.Model.csprojAssemblyReference.cache
+D:\Pratik Patil\VS 2019\AIBotWithTests1\AIBotWithTests1\AIBotWithTests1ML.Model\obj\Debug\netstandard2.0\AIBotWithTests1ML.Model.AssemblyInfoInputs.cache
+D:\Pratik Patil\VS 2019\AIBotWithTests1\AIBotWithTests1\AIBotWithTests1ML.Model\obj\Debug\netstandard2.0\AIBotWithTests1ML.Model.AssemblyInfo.cs
+D:\Pratik Patil\VS 2019\AIBotWithTests1\AIBotWithTests1\AIBotWithTests1ML.Model\obj\Debug\netstandard2.0\AIBotWithTests1ML.Model.csproj.CoreCompileInputs.cache
+D:\Pratik Patil\VS 2019\AIBotWithTests1\AIBotWithTests1\AIBotWithTests1ML.Model\obj\Debug\netstandard2.0\AIBotWithTests1ML.Model.dll
+D:\Pratik Patil\VS 2019\AIBotWithTests1\AIBotWithTests1\AIBotWithTests1ML.Model\obj\Debug\netstandard2.0\AIBotWithTests1ML.Model.pdb
